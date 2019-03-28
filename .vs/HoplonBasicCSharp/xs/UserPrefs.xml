@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FBC797A1-196C-460F-9A44-F56FC79FDFB6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Workshop_de_CSharp_Aula_1/Exercises/Fourteen.cs">
+    <Files>
+      <File FileName="Workshop_de_CSharp_Aula_1/Program.cs" Line="41" Column="60" />
+      <File FileName="Workshop_de_CSharp_Aula_1/Exercises/Exercise.cs" Line="2" Column="1" />
+      <File FileName="Workshop_de_CSharp_Aula_1/Exercises/Fourteen.cs" Line="24" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.HoplonBasicCSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
